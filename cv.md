@@ -15,17 +15,19 @@
 - <span style="color:darkgray">Git</span>
 
 ## Code Example
+```javascript
  function sum(a, b) {
   return a + b;
 }
-
  let result = sum(1, 2);
  alert( result );
+ ```
 ## Experience
 
 ## Education
-[CS50 lectures](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
-[FreeCodeCamp](https://www.freecodecamp.org/)
+* [CS50 lectures](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+
+* [FreeCodeCamp](https://www.freecodecamp.org/)
 
 
 ## Foreign Language Levels
