@@ -1,6 +1,6 @@
 # Zhigitalieva Chynygul
 ## Contacts
-* #### Location: #### Bishkek,Kyrgyzstan
-* #### Phone: #### +996778311307
-* #### Email: #### zhch2503@gmail.com
-* #### GitHub: #### zhchynygul
+* #### Location: _Bishkek,Kyrgyzstan_
+* #### Phone: _+996778311307_
+* #### Email: _zhch2503@gmail.com_
+* #### GitHub: _zhchynygul_
